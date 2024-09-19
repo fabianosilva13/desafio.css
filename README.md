@@ -7,6 +7,6 @@
 <p>-HTML</p>
 <p>-CSS</p>
 <br>
-<img src="https://github.com/fabianosilva13/desafio.css/blob/main/img/captura-wecare.png?raw=true"
+<img src="https://github.com/fabianosilva13/desafio.css/blob/main/img/captura-wecare.png?raw=true" />
 <br>
-<img src=""
+<img src="https://github.com/fabianosilva13/desafio.css/blob/main/img/captura-we%20care%20-%20Copia.png?raw=true" />
