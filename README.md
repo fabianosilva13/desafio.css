@@ -10,3 +10,5 @@
 <img src="https://github.com/fabianosilva13/desafio.css/blob/main/img/captura-wecare.png?raw=true" />
 <br>
 <img src="https://github.com/fabianosilva13/desafio.css/blob/main/img/captura-we%20care%20-%20Copia.png?raw=true" />
+<br>
+<p><p>muito obrigado <a>DevClub</a></p>:raised_hands:</p>
